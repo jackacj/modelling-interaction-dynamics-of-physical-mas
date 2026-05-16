@@ -54,9 +54,4 @@ Other directories are present in this project which store other facets of the pr
 
 - `ModelTemplates`: Contains all the code defining the structure of the proposed approach, ablation models and the components used to contruct them.
 
-- `ResearchAndDesign`: Contains all information about the project's conception and execution which is not direct implementation. Includes multiple papers, scans and images as well as a journal `Master's Project Journal - JXH1482.pdf` which documents the project's development from 09/10/25 to 27/02/26. The subdirectories are as follows:
-  - `Bibliography`: Collection of academic papers/materials used in the research process of this project. None of this is my own work.
-  - `Designs`: Scans & images related to the hypothetical and direct implementations of my project's approach.
-  - `Research`: Scans of paper notes containing my research insights. Directly sources my bibliography.
-
 - `ExperimentalResults`: Contains all the results produced by the **Temporal Modelling** & **Interaction Modelling** experiments conducted during this project, these are sorted into two subdirectories and contain a `.json` file which holds all the data points produced as well as graph images `.png` depicting these results in a structured format.
