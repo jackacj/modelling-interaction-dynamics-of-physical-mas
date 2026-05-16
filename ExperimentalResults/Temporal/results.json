@@ -1,0 +1,5402 @@
+[
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 1,
+    "meanADE": 0.006238533183932304,
+    "q1": 0.004012097138911486,
+    "q3": 0.007794933393597603
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 2,
+    "meanADE": 0.007091969717293978,
+    "q1": 0.00409762654453516,
+    "q3": 0.00925491750240326
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 3,
+    "meanADE": 0.008227532729506493,
+    "q1": 0.004301978275179863,
+    "q3": 0.010636555030941963
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 4,
+    "meanADE": 0.00949515774846077,
+    "q1": 0.004907967988401651,
+    "q3": 0.01179210189729929
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 5,
+    "meanADE": 0.011173192411661148,
+    "q1": 0.005580913741141558,
+    "q3": 0.013689643703401089
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 6,
+    "meanADE": 0.012908585369586945,
+    "q1": 0.005820216611027718,
+    "q3": 0.01589014008641243
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 7,
+    "meanADE": 0.014666233211755753,
+    "q1": 0.005876139737665653,
+    "q3": 0.018200039863586426
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 8,
+    "meanADE": 0.016832411289215088,
+    "q1": 0.006056996528059244,
+    "q3": 0.021205490455031395
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 9,
+    "meanADE": 0.019145503640174866,
+    "q1": 0.006341235712170601,
+    "q3": 0.024433093145489693
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 10,
+    "meanADE": 0.021491674706339836,
+    "q1": 0.006442041601985693,
+    "q3": 0.027893271297216415
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 11,
+    "meanADE": 0.023997744545340538,
+    "q1": 0.006631569936871529,
+    "q3": 0.031653180718421936
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 12,
+    "meanADE": 0.0266225915402174,
+    "q1": 0.006749159190803766,
+    "q3": 0.03563001751899719
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 13,
+    "meanADE": 0.02944611944258213,
+    "q1": 0.0069961873814463615,
+    "q3": 0.03987652808427811
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 14,
+    "meanADE": 0.03242390975356102,
+    "q1": 0.007242373190820217,
+    "q3": 0.044378090649843216
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 15,
+    "meanADE": 0.03551089018583298,
+    "q1": 0.007347926963120699,
+    "q3": 0.049230825155973434
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 16,
+    "meanADE": 0.038682568818330765,
+    "q1": 0.007459850050508976,
+    "q3": 0.05435241758823395
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 17,
+    "meanADE": 0.04202313721179962,
+    "q1": 0.007850069552659988,
+    "q3": 0.05955932289361954
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 18,
+    "meanADE": 0.045459963381290436,
+    "q1": 0.008145136758685112,
+    "q3": 0.06493499875068665
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 19,
+    "meanADE": 0.04902307689189911,
+    "q1": 0.00837722234427929,
+    "q3": 0.07060374319553375
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 20,
+    "meanADE": 0.052691441029310226,
+    "q1": 0.008559668436646461,
+    "q3": 0.07651817798614502
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 1,
+    "meanADE": 0.001929019344970584,
+    "q1": 0.0006766277365386486,
+    "q3": 0.00259751477278769
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 2,
+    "meanADE": 0.004454087000340223,
+    "q1": 0.0023279045708477497,
+    "q3": 0.0055486648343503475
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 3,
+    "meanADE": 0.006006722338497639,
+    "q1": 0.002637239405885339,
+    "q3": 0.0077659692615270615
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 4,
+    "meanADE": 0.0073599666357040405,
+    "q1": 0.002989592030644417,
+    "q3": 0.009474481455981731
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 5,
+    "meanADE": 0.008767281658947468,
+    "q1": 0.0031879900489002466,
+    "q3": 0.011237245984375477
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 6,
+    "meanADE": 0.010316579602658749,
+    "q1": 0.0031986115500330925,
+    "q3": 0.013445037417113781
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 7,
+    "meanADE": 0.012133508920669556,
+    "q1": 0.003452019300311804,
+    "q3": 0.015968922525644302
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 8,
+    "meanADE": 0.01412983424961567,
+    "q1": 0.003593582659959793,
+    "q3": 0.018798571079969406
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 9,
+    "meanADE": 0.016311082988977432,
+    "q1": 0.0037871934473514557,
+    "q3": 0.021914159879088402
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 10,
+    "meanADE": 0.01868772692978382,
+    "q1": 0.004044526256620884,
+    "q3": 0.02529018744826317
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 11,
+    "meanADE": 0.021150123327970505,
+    "q1": 0.004073116462677717,
+    "q3": 0.02901168167591095
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 12,
+    "meanADE": 0.023741932585835457,
+    "q1": 0.004101467318832874,
+    "q3": 0.03301609307527542
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 13,
+    "meanADE": 0.026495739817619324,
+    "q1": 0.004187736194580793,
+    "q3": 0.037300921976566315
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 14,
+    "meanADE": 0.029367616400122643,
+    "q1": 0.0041375597938895226,
+    "q3": 0.04177756607532501
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 15,
+    "meanADE": 0.03235981613397598,
+    "q1": 0.004139687400311232,
+    "q3": 0.046613629907369614
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 16,
+    "meanADE": 0.03547988086938858,
+    "q1": 0.004185772500932217,
+    "q3": 0.05148424953222275
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 17,
+    "meanADE": 0.03872416168451309,
+    "q1": 0.004220648668706417,
+    "q3": 0.05653917044401169
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 18,
+    "meanADE": 0.04206600412726402,
+    "q1": 0.004231633618474007,
+    "q3": 0.06188183277845383
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 19,
+    "meanADE": 0.04552570730447769,
+    "q1": 0.0043024225160479546,
+    "q3": 0.06761638820171356
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 1,
+    "horizon": 20,
+    "meanADE": 0.04912112280726433,
+    "q1": 0.004445688799023628,
+    "q3": 0.07333382219076157
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 1,
+    "meanADE": 0.002739440882578492,
+    "q1": 0.0009463202441111207,
+    "q3": 0.0038232493679970503
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 2,
+    "meanADE": 0.0033880530390888453,
+    "q1": 0.0011445265263319016,
+    "q3": 0.004428684711456299
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 3,
+    "meanADE": 0.004391990602016449,
+    "q1": 0.0012669702991843224,
+    "q3": 0.005744550377130508
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 4,
+    "meanADE": 0.005443914793431759,
+    "q1": 0.0015472229570150375,
+    "q3": 0.007032344117760658
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 5,
+    "meanADE": 0.0065371207892894745,
+    "q1": 0.0016866648802533746,
+    "q3": 0.008427297696471214
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 6,
+    "meanADE": 0.00770307332277298,
+    "q1": 0.0017505597788840532,
+    "q3": 0.009908340871334076
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 7,
+    "meanADE": 0.008961240760982037,
+    "q1": 0.0018410731572657824,
+    "q3": 0.011507853865623474
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 8,
+    "meanADE": 0.010371164418756962,
+    "q1": 0.0019179349765181541,
+    "q3": 0.013206856325268745
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 9,
+    "meanADE": 0.011901049874722958,
+    "q1": 0.0019385177874937654,
+    "q3": 0.015109699219465256
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 10,
+    "meanADE": 0.013579820282757282,
+    "q1": 0.0020017744973301888,
+    "q3": 0.017209114506840706
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 11,
+    "meanADE": 0.015400301665067673,
+    "q1": 0.002042611362412572,
+    "q3": 0.019523506984114647
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 12,
+    "meanADE": 0.017336398363113403,
+    "q1": 0.0020793091971427202,
+    "q3": 0.022118186578154564
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 13,
+    "meanADE": 0.01940436102449894,
+    "q1": 0.0021314923651516438,
+    "q3": 0.024922404438257217
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 14,
+    "meanADE": 0.021596617996692657,
+    "q1": 0.0021598192397505045,
+    "q3": 0.027942778542637825
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 15,
+    "meanADE": 0.023926761001348495,
+    "q1": 0.0022364147007465363,
+    "q3": 0.031128885224461555
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 16,
+    "meanADE": 0.026394454762339592,
+    "q1": 0.0023510868195444345,
+    "q3": 0.03461674228310585
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 17,
+    "meanADE": 0.028953438624739647,
+    "q1": 0.002381587168201804,
+    "q3": 0.03835239261388779
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 18,
+    "meanADE": 0.031672362238168716,
+    "q1": 0.002497949404641986,
+    "q3": 0.042334504425525665
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 19,
+    "meanADE": 0.03449924662709236,
+    "q1": 0.0025794063694775105,
+    "q3": 0.046367961913347244
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 20,
+    "meanADE": 0.03743350878357887,
+    "q1": 0.0026731370016932487,
+    "q3": 0.05075046420097351
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 1,
+    "meanADE": 0.001976556843146682,
+    "q1": 0.0007044269586913288,
+    "q3": 0.0026657613925635815
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 2,
+    "meanADE": 0.003936810418963432,
+    "q1": 0.00193971605040133,
+    "q3": 0.004990948364138603
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 3,
+    "meanADE": 0.004459436517208815,
+    "q1": 0.002148278057575226,
+    "q3": 0.005232052877545357
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 4,
+    "meanADE": 0.0052777063101530075,
+    "q1": 0.0022975951433181763,
+    "q3": 0.006067450158298016
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 5,
+    "meanADE": 0.006302827037870884,
+    "q1": 0.002428804524242878,
+    "q3": 0.0072342399507761
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 6,
+    "meanADE": 0.007588251028209925,
+    "q1": 0.0026599522680044174,
+    "q3": 0.008799155242741108
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 7,
+    "meanADE": 0.009077835828065872,
+    "q1": 0.002973753958940506,
+    "q3": 0.010642674751579762
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 8,
+    "meanADE": 0.010652915574610233,
+    "q1": 0.0032228766940534115,
+    "q3": 0.012613599188625813
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 9,
+    "meanADE": 0.012334725819528103,
+    "q1": 0.0034953767899423838,
+    "q3": 0.01466493308544159
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 10,
+    "meanADE": 0.014120511710643768,
+    "q1": 0.0037475558929145336,
+    "q3": 0.016875455155968666
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 11,
+    "meanADE": 0.016022833064198494,
+    "q1": 0.003944470547139645,
+    "q3": 0.019247492775321007
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 12,
+    "meanADE": 0.018025292083621025,
+    "q1": 0.0040688966400921345,
+    "q3": 0.0219279732555151
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 13,
+    "meanADE": 0.02016262337565422,
+    "q1": 0.004220146220177412,
+    "q3": 0.02475111186504364
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 14,
+    "meanADE": 0.022412000223994255,
+    "q1": 0.004335357807576656,
+    "q3": 0.027807317674160004
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 15,
+    "meanADE": 0.024773208424448967,
+    "q1": 0.004434836562722921,
+    "q3": 0.031153682619333267
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 16,
+    "meanADE": 0.027249101549386978,
+    "q1": 0.00450039142742753,
+    "q3": 0.03469874709844589
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 17,
+    "meanADE": 0.0298569705337286,
+    "q1": 0.004629997070878744,
+    "q3": 0.03846824914216995
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 18,
+    "meanADE": 0.03257241100072861,
+    "q1": 0.004731006920337677,
+    "q3": 0.04254836216568947
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 19,
+    "meanADE": 0.03540753200650215,
+    "q1": 0.004870879463851452,
+    "q3": 0.04682675004005432
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 3,
+    "horizon": 20,
+    "meanADE": 0.03834189847111702,
+    "q1": 0.005026060156524181,
+    "q3": 0.051337629556655884
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 1,
+    "meanADE": 0.003039335599169135,
+    "q1": 0.001110955374315381,
+    "q3": 0.004047801718115807
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 2,
+    "meanADE": 0.004216484259814024,
+    "q1": 0.0015357669908553362,
+    "q3": 0.005672730505466461
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 3,
+    "meanADE": 0.00531321857124567,
+    "q1": 0.001780908671207726,
+    "q3": 0.007045927923172712
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 4,
+    "meanADE": 0.006297754589468241,
+    "q1": 0.0018533131806179881,
+    "q3": 0.008281411603093147
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 5,
+    "meanADE": 0.007478372659534216,
+    "q1": 0.002080625155940652,
+    "q3": 0.00957836490124464
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 6,
+    "meanADE": 0.008739381097257137,
+    "q1": 0.0021981438621878624,
+    "q3": 0.011096595786511898
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 7,
+    "meanADE": 0.010105479508638382,
+    "q1": 0.002346340799704194,
+    "q3": 0.012829344719648361
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 8,
+    "meanADE": 0.01159619353711605,
+    "q1": 0.002528945915400982,
+    "q3": 0.01467333547770977
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 9,
+    "meanADE": 0.013279343023896217,
+    "q1": 0.002855283208191395,
+    "q3": 0.016796933487057686
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 10,
+    "meanADE": 0.015033762902021408,
+    "q1": 0.00297696515917778,
+    "q3": 0.018911922350525856
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 11,
+    "meanADE": 0.01693788729608059,
+    "q1": 0.0031455778516829014,
+    "q3": 0.021295562386512756
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 12,
+    "meanADE": 0.018971804529428482,
+    "q1": 0.003333834232762456,
+    "q3": 0.0238516703248024
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 13,
+    "meanADE": 0.02109486795961857,
+    "q1": 0.003438980784267187,
+    "q3": 0.02661842666566372
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 14,
+    "meanADE": 0.02336767315864563,
+    "q1": 0.003623717464506626,
+    "q3": 0.02970724180340767
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 15,
+    "meanADE": 0.025691378861665726,
+    "q1": 0.0035688835196197033,
+    "q3": 0.03299392759799957
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 16,
+    "meanADE": 0.028170088306069374,
+    "q1": 0.003688457189127803,
+    "q3": 0.03663483262062073
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 17,
+    "meanADE": 0.03074803203344345,
+    "q1": 0.0037467090878635645,
+    "q3": 0.04033612832427025
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 18,
+    "meanADE": 0.033474236726760864,
+    "q1": 0.0038930263835936785,
+    "q3": 0.044429752975702286
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 19,
+    "meanADE": 0.036291610449552536,
+    "q1": 0.004021442029625177,
+    "q3": 0.048655346035957336
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 20,
+    "meanADE": 0.03920886665582657,
+    "q1": 0.004149068612605333,
+    "q3": 0.05311958119273186
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 1,
+    "meanADE": 0.0019261440029367805,
+    "q1": 0.000624624255578965,
+    "q3": 0.0024756761267781258
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 2,
+    "meanADE": 0.0032442412339150906,
+    "q1": 0.000977647490799427,
+    "q3": 0.004255509469658136
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 3,
+    "meanADE": 0.004702446982264519,
+    "q1": 0.001619426067918539,
+    "q3": 0.006149585824459791
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 4,
+    "meanADE": 0.00615561893209815,
+    "q1": 0.002020271262153983,
+    "q3": 0.008247464895248413
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 5,
+    "meanADE": 0.007678164169192314,
+    "q1": 0.0024075161200016737,
+    "q3": 0.010390646755695343
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 6,
+    "meanADE": 0.009152833372354507,
+    "q1": 0.002646918408572674,
+    "q3": 0.012463740073144436
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 7,
+    "meanADE": 0.01062459871172905,
+    "q1": 0.0028123538941144943,
+    "q3": 0.014429382979869843
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 8,
+    "meanADE": 0.012164815329015255,
+    "q1": 0.0029107057489454746,
+    "q3": 0.01645296812057495
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 9,
+    "meanADE": 0.01384346280246973,
+    "q1": 0.0030007942114025354,
+    "q3": 0.018617281690239906
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 10,
+    "meanADE": 0.0156919714063406,
+    "q1": 0.0031507026869803667,
+    "q3": 0.021065423265099525
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 11,
+    "meanADE": 0.017694370821118355,
+    "q1": 0.003313574241474271,
+    "q3": 0.023766055703163147
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 12,
+    "meanADE": 0.019789982587099075,
+    "q1": 0.0033941299188882113,
+    "q3": 0.0266239196062088
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 13,
+    "meanADE": 0.02203192189335823,
+    "q1": 0.003531614551320672,
+    "q3": 0.029688121750950813
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 14,
+    "meanADE": 0.024381376802921295,
+    "q1": 0.003560770070180297,
+    "q3": 0.03303270414471626
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 15,
+    "meanADE": 0.026860972866415977,
+    "q1": 0.003697747830301523,
+    "q3": 0.03654089570045471
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 16,
+    "meanADE": 0.029458796605467796,
+    "q1": 0.003818086814135313,
+    "q3": 0.04035723954439163
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 17,
+    "meanADE": 0.032163962721824646,
+    "q1": 0.00386937172152102,
+    "q3": 0.04439765214920044
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 18,
+    "meanADE": 0.03498448058962822,
+    "q1": 0.0038817187305539846,
+    "q3": 0.04867005720734596
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 19,
+    "meanADE": 0.03791145235300064,
+    "q1": 0.003960666246712208,
+    "q3": 0.053101830184459686
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 5,
+    "horizon": 20,
+    "meanADE": 0.040946852415800095,
+    "q1": 0.004099857993423939,
+    "q3": 0.05773913115262985
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 1,
+    "meanADE": 0.0032266811467707157,
+    "q1": 0.0014308204408735037,
+    "q3": 0.0039635999128222466
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 2,
+    "meanADE": 0.0041739121079444885,
+    "q1": 0.0018070670776069164,
+    "q3": 0.005061542149633169
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 3,
+    "meanADE": 0.005472823977470398,
+    "q1": 0.002429764484986663,
+    "q3": 0.0066085574217140675
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 4,
+    "meanADE": 0.006638627965003252,
+    "q1": 0.0030021334532648325,
+    "q3": 0.007806890644133091
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 5,
+    "meanADE": 0.00814510602504015,
+    "q1": 0.0034235985949635506,
+    "q3": 0.009732212871313095
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 6,
+    "meanADE": 0.009584874846041203,
+    "q1": 0.003451654454693198,
+    "q3": 0.011759301647543907
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 7,
+    "meanADE": 0.010882256552577019,
+    "q1": 0.0033763484098017216,
+    "q3": 0.013499598018825054
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 8,
+    "meanADE": 0.012369759380817413,
+    "q1": 0.0035846843384206295,
+    "q3": 0.015311234630644321
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 9,
+    "meanADE": 0.014012419618666172,
+    "q1": 0.003755374811589718,
+    "q3": 0.017301106825470924
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 10,
+    "meanADE": 0.01577635481953621,
+    "q1": 0.0037558635231107473,
+    "q3": 0.01945938542485237
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 11,
+    "meanADE": 0.01773105375468731,
+    "q1": 0.003922039642930031,
+    "q3": 0.021735694259405136
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 12,
+    "meanADE": 0.019761180505156517,
+    "q1": 0.003864068305119872,
+    "q3": 0.024331800639629364
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 13,
+    "meanADE": 0.021990664303302765,
+    "q1": 0.003888743696734309,
+    "q3": 0.027255592867732048
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 14,
+    "meanADE": 0.02436082437634468,
+    "q1": 0.004055090248584747,
+    "q3": 0.030461248010396957
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 15,
+    "meanADE": 0.026779646053910255,
+    "q1": 0.004102377686649561,
+    "q3": 0.03377050906419754
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 16,
+    "meanADE": 0.029391242191195488,
+    "q1": 0.004210319370031357,
+    "q3": 0.037334464490413666
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 17,
+    "meanADE": 0.03206811100244522,
+    "q1": 0.004200779367238283,
+    "q3": 0.04113383963704109
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 18,
+    "meanADE": 0.03492097556591034,
+    "q1": 0.004444374702870846,
+    "q3": 0.045167386531829834
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 19,
+    "meanADE": 0.03785032033920288,
+    "q1": 0.0045434110797941685,
+    "q3": 0.049421556293964386
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 20,
+    "meanADE": 0.04088646546006203,
+    "q1": 0.0046592033468186855,
+    "q3": 0.05372290685772896
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 1,
+    "meanADE": 0.005008200649172068,
+    "q1": 0.0014184496831148863,
+    "q3": 0.008023019880056381
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 2,
+    "meanADE": 0.005604251753538847,
+    "q1": 0.0012516605202108622,
+    "q3": 0.008542783558368683
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 3,
+    "meanADE": 0.006195602938532829,
+    "q1": 0.0011772153666242957,
+    "q3": 0.00859682634472847
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 4,
+    "meanADE": 0.007336003705859184,
+    "q1": 0.0014947192976251245,
+    "q3": 0.009927252307534218
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 5,
+    "meanADE": 0.008617238141596317,
+    "q1": 0.0017157610272988677,
+    "q3": 0.011606689542531967
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 6,
+    "meanADE": 0.009936896152794361,
+    "q1": 0.00170834269374609,
+    "q3": 0.013356792740523815
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 7,
+    "meanADE": 0.011415877379477024,
+    "q1": 0.001865168334916234,
+    "q3": 0.015265029855072498
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 8,
+    "meanADE": 0.013051390647888184,
+    "q1": 0.0020145683083683252,
+    "q3": 0.017500104382634163
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 9,
+    "meanADE": 0.014862474985420704,
+    "q1": 0.0020239586010575294,
+    "q3": 0.020010249689221382
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 10,
+    "meanADE": 0.016753561794757843,
+    "q1": 0.002136564813554287,
+    "q3": 0.022604206576943398
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 11,
+    "meanADE": 0.018775271251797676,
+    "q1": 0.0021505977492779493,
+    "q3": 0.025411531329154968
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 12,
+    "meanADE": 0.02094733528792858,
+    "q1": 0.0021804017014801502,
+    "q3": 0.028512854129076004
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 13,
+    "meanADE": 0.02321775257587433,
+    "q1": 0.0022827978245913982,
+    "q3": 0.031611375510692596
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 14,
+    "meanADE": 0.025608917698264122,
+    "q1": 0.0024269595742225647,
+    "q3": 0.03510178625583649
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 15,
+    "meanADE": 0.02812969498336315,
+    "q1": 0.0025207833386957645,
+    "q3": 0.03886832296848297
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 16,
+    "meanADE": 0.030783670023083687,
+    "q1": 0.0026011504232883453,
+    "q3": 0.042718514800071716
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 17,
+    "meanADE": 0.033507637679576874,
+    "q1": 0.002655303105711937,
+    "q3": 0.04689411446452141
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 18,
+    "meanADE": 0.036399755626916885,
+    "q1": 0.0028235455974936485,
+    "q3": 0.051322419196367264
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 19,
+    "meanADE": 0.03939466550946236,
+    "q1": 0.002969822846353054,
+    "q3": 0.05602976307272911
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 10,
+    "horizon": 20,
+    "meanADE": 0.04246589541435242,
+    "q1": 0.003105349373072386,
+    "q3": 0.0608656220138073
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 1,
+    "meanADE": 0.002784394659101963,
+    "q1": 0.0006879940629005432,
+    "q3": 0.0039714425802230835
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 2,
+    "meanADE": 0.003907516598701477,
+    "q1": 0.0010129704605787992,
+    "q3": 0.005417478270828724
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 3,
+    "meanADE": 0.005145636852830648,
+    "q1": 0.0012419521808624268,
+    "q3": 0.00696045346558094
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 4,
+    "meanADE": 0.006505416706204414,
+    "q1": 0.00143055256921798,
+    "q3": 0.008930550888180733
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 5,
+    "meanADE": 0.00790878664702177,
+    "q1": 0.0017200825968757272,
+    "q3": 0.010832121595740318
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 6,
+    "meanADE": 0.009426399134099483,
+    "q1": 0.0018353138584643602,
+    "q3": 0.012978355400264263
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 7,
+    "meanADE": 0.011089841835200787,
+    "q1": 0.0022570397704839706,
+    "q3": 0.015052439644932747
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 8,
+    "meanADE": 0.012793567031621933,
+    "q1": 0.002409448614344001,
+    "q3": 0.017321884632110596
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 9,
+    "meanADE": 0.014485098421573639,
+    "q1": 0.0024768488947302103,
+    "q3": 0.01953158527612686
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 10,
+    "meanADE": 0.016290726140141487,
+    "q1": 0.00260510528460145,
+    "q3": 0.021762650460004807
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 11,
+    "meanADE": 0.018213696777820587,
+    "q1": 0.0026526530273258686,
+    "q3": 0.024251500144600868
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 12,
+    "meanADE": 0.020290875807404518,
+    "q1": 0.0028299232944846153,
+    "q3": 0.026923768222332
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 13,
+    "meanADE": 0.022493325173854828,
+    "q1": 0.003026356687769294,
+    "q3": 0.029773324728012085
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 14,
+    "meanADE": 0.024782288819551468,
+    "q1": 0.003070482052862644,
+    "q3": 0.03288479894399643
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 15,
+    "meanADE": 0.027241837233304977,
+    "q1": 0.003128501819446683,
+    "q3": 0.03643244504928589
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 16,
+    "meanADE": 0.029851213097572327,
+    "q1": 0.003234737552702427,
+    "q3": 0.04009762406349182
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 17,
+    "meanADE": 0.03258436545729637,
+    "q1": 0.0033609718084335327,
+    "q3": 0.04407887160778046
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 18,
+    "meanADE": 0.03542391583323479,
+    "q1": 0.003502088598906994,
+    "q3": 0.048316918313503265
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 19,
+    "meanADE": 0.038388725370168686,
+    "q1": 0.0036124878097325563,
+    "q3": 0.05270736664533615
+  },
+  {
+    "modelType": "EG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 20,
+    "meanADE": 0.041480496525764465,
+    "q1": 0.003694457234814763,
+    "q3": 0.05729985237121582
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 1,
+    "meanADE": 0.0030605855863541365,
+    "q1": 0.0006220065988600254,
+    "q3": 0.004555747844278812
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 2,
+    "meanADE": 0.004238385707139969,
+    "q1": 0.000696369563229382,
+    "q3": 0.006183155812323093
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 3,
+    "meanADE": 0.005870673805475235,
+    "q1": 0.0007061478099785745,
+    "q3": 0.008708884939551353
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 4,
+    "meanADE": 0.006938039790838957,
+    "q1": 0.0006483898032456636,
+    "q3": 0.009912244975566864
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 5,
+    "meanADE": 0.0079291807487607,
+    "q1": 0.0005588551866821945,
+    "q3": 0.010845059528946877
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 6,
+    "meanADE": 0.009162994101643562,
+    "q1": 0.0005344686796888709,
+    "q3": 0.012326539494097233
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 7,
+    "meanADE": 0.01055994164198637,
+    "q1": 0.0005204521585255861,
+    "q3": 0.014080038294196129
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 8,
+    "meanADE": 0.012105297297239304,
+    "q1": 0.0005240386817604303,
+    "q3": 0.016026528552174568
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 9,
+    "meanADE": 0.013806819915771484,
+    "q1": 0.0005097679677419364,
+    "q3": 0.01831400953233242
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 10,
+    "meanADE": 0.01568656414747238,
+    "q1": 0.0005062004784122109,
+    "q3": 0.020889833569526672
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 11,
+    "meanADE": 0.01770809292793274,
+    "q1": 0.0005096746026538312,
+    "q3": 0.023839196190238
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 12,
+    "meanADE": 0.019899092614650726,
+    "q1": 0.000532155332621187,
+    "q3": 0.02697652205824852
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 13,
+    "meanADE": 0.022245321422815323,
+    "q1": 0.0005877726944163442,
+    "q3": 0.03036332130432129
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 14,
+    "meanADE": 0.02472870796918869,
+    "q1": 0.0006263978430069983,
+    "q3": 0.03412812948226929
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 15,
+    "meanADE": 0.027335865423083305,
+    "q1": 0.0006725315470248461,
+    "q3": 0.03803904354572296
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 16,
+    "meanADE": 0.03007527068257332,
+    "q1": 0.0007411190890707076,
+    "q3": 0.04229734465479851
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 17,
+    "meanADE": 0.032927341759204865,
+    "q1": 0.0008419572259299457,
+    "q3": 0.04667992517352104
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 18,
+    "meanADE": 0.03588401898741722,
+    "q1": 0.0009156583109870553,
+    "q3": 0.051214173436164856
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 19,
+    "meanADE": 0.03894905000925064,
+    "q1": 0.0010118935024365783,
+    "q3": 0.05607612431049347
+  },
+  {
+    "modelType": "BG",
+    "scenario": "flocking",
+    "history": 20,
+    "horizon": 20,
+    "meanADE": 0.04211047664284706,
+    "q1": 0.001053722109645605,
+    "q3": 0.061045996844768524
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 1,
+    "meanADE": 0.000803602859377861,
+    "q1": 0.0005508867907337844,
+    "q3": 0.0005921558476984501
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 2,
+    "meanADE": 0.0011733375722542405,
+    "q1": 0.0005433282349258661,
+    "q3": 0.0010855677537620068
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 3,
+    "meanADE": 0.0016113693127408624,
+    "q1": 0.0006890788790769875,
+    "q3": 0.0016511550638824701
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 4,
+    "meanADE": 0.0019913038704544306,
+    "q1": 0.000798191293142736,
+    "q3": 0.0021170685067772865
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 5,
+    "meanADE": 0.0023474604822695255,
+    "q1": 0.0008859107038006186,
+    "q3": 0.002520283916965127
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 6,
+    "meanADE": 0.0026948226150125265,
+    "q1": 0.000958315737079829,
+    "q3": 0.0028932697605341673
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 7,
+    "meanADE": 0.0030370294116437435,
+    "q1": 0.0010126130655407906,
+    "q3": 0.003244612831622362
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 8,
+    "meanADE": 0.0033765065018087626,
+    "q1": 0.0010484756203368306,
+    "q3": 0.0035805567167699337
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 9,
+    "meanADE": 0.0037166494876146317,
+    "q1": 0.0010692821815609932,
+    "q3": 0.003912786021828651
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 10,
+    "meanADE": 0.0040611098520457745,
+    "q1": 0.001077914028428495,
+    "q3": 0.004184191580861807
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 11,
+    "meanADE": 0.004412197507917881,
+    "q1": 0.0010800253367051482,
+    "q3": 0.0044836727902293205
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 12,
+    "meanADE": 0.004774237051606178,
+    "q1": 0.001080344314686954,
+    "q3": 0.004770104773342609
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 13,
+    "meanADE": 0.005147264804691076,
+    "q1": 0.0010810194071382284,
+    "q3": 0.005050795152783394
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 14,
+    "meanADE": 0.005531868431717157,
+    "q1": 0.0010826931102201343,
+    "q3": 0.005333248525857925
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 15,
+    "meanADE": 0.005927036516368389,
+    "q1": 0.0010856966255232692,
+    "q3": 0.005618209484964609
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 16,
+    "meanADE": 0.00633107079192996,
+    "q1": 0.0010899037588387728,
+    "q3": 0.0059070405550301075
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 17,
+    "meanADE": 0.006744429003447294,
+    "q1": 0.0010956531623378396,
+    "q3": 0.006176774390041828
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 18,
+    "meanADE": 0.007164822891354561,
+    "q1": 0.001103645539842546,
+    "q3": 0.00643688952550292
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 19,
+    "meanADE": 0.007591084577143192,
+    "q1": 0.0011117933318018913,
+    "q3": 0.006709621287882328
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 20,
+    "meanADE": 0.008022559806704521,
+    "q1": 0.0011207385687157512,
+    "q3": 0.0069778915494680405
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 1,
+    "meanADE": 0.0007087824051268399,
+    "q1": 0.0003932253166567534,
+    "q3": 0.0006652059964835644
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 2,
+    "meanADE": 0.0010797180002555251,
+    "q1": 0.0005613718531094491,
+    "q3": 0.00102243572473526
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 3,
+    "meanADE": 0.0015553393168374896,
+    "q1": 0.0008203339530155063,
+    "q3": 0.0015319193480536342
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 4,
+    "meanADE": 0.0019236428197473288,
+    "q1": 0.0009725101990625262,
+    "q3": 0.001869601896032691
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 5,
+    "meanADE": 0.0022324712481349707,
+    "q1": 0.001070538884960115,
+    "q3": 0.002084322040900588
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 6,
+    "meanADE": 0.002526162890717387,
+    "q1": 0.0011253573466092348,
+    "q3": 0.0022514164447784424
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 7,
+    "meanADE": 0.0028242734260857105,
+    "q1": 0.0011671062093228102,
+    "q3": 0.002419884316623211
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 8,
+    "meanADE": 0.003130640834569931,
+    "q1": 0.0011937943054363132,
+    "q3": 0.0025988868437707424
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 9,
+    "meanADE": 0.0034417423885315657,
+    "q1": 0.0012052234960719943,
+    "q3": 0.0027842926792800426
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 10,
+    "meanADE": 0.003760429099202156,
+    "q1": 0.0012115959543734789,
+    "q3": 0.002979001961648464
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 11,
+    "meanADE": 0.004088087007403374,
+    "q1": 0.0012090849922969937,
+    "q3": 0.00315298605710268
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 12,
+    "meanADE": 0.004426245111972094,
+    "q1": 0.0012021217262372375,
+    "q3": 0.0033633753191679716
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 13,
+    "meanADE": 0.004774954169988632,
+    "q1": 0.0011941548436880112,
+    "q3": 0.003591155866160989
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 14,
+    "meanADE": 0.005134751554578543,
+    "q1": 0.0011890255846083164,
+    "q3": 0.0038371048867702484
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 15,
+    "meanADE": 0.0055065457709133625,
+    "q1": 0.0011865826090797782,
+    "q3": 0.004052876494824886
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 16,
+    "meanADE": 0.005888279061764479,
+    "q1": 0.0011876436183229089,
+    "q3": 0.0042625414207577705
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 17,
+    "meanADE": 0.006278856657445431,
+    "q1": 0.001182390027679503,
+    "q3": 0.004482161719352007
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 18,
+    "meanADE": 0.006678122095763683,
+    "q1": 0.0011824837420135736,
+    "q3": 0.004691719077527523
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 19,
+    "meanADE": 0.007086578756570816,
+    "q1": 0.0011856761993840337,
+    "q3": 0.00490881223231554
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 1,
+    "horizon": 20,
+    "meanADE": 0.007503190077841282,
+    "q1": 0.0011929826578125358,
+    "q3": 0.005120663437992334
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 1,
+    "meanADE": 0.0004072372685186565,
+    "q1": 0.0001532739115646109,
+    "q3": 0.0002939456608146429
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 2,
+    "meanADE": 0.0008741232450120151,
+    "q1": 0.0005626616184599698,
+    "q3": 0.0007228970061987638
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 3,
+    "meanADE": 0.0009722930262796581,
+    "q1": 0.0005682118353433907,
+    "q3": 0.0007809377275407314
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 4,
+    "meanADE": 0.0010383680928498507,
+    "q1": 0.0005293973372317851,
+    "q3": 0.0008029881282709539
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 5,
+    "meanADE": 0.0011415837798267603,
+    "q1": 0.0005230642855167389,
+    "q3": 0.000850608223117888
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 6,
+    "meanADE": 0.0012688090791925788,
+    "q1": 0.0005371742881834507,
+    "q3": 0.0009130630642175674
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 7,
+    "meanADE": 0.0014059287495911121,
+    "q1": 0.0005490879411809146,
+    "q3": 0.0009768892778083682
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 8,
+    "meanADE": 0.0015504836337640882,
+    "q1": 0.0005520920967683196,
+    "q3": 0.001037442940287292
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 9,
+    "meanADE": 0.0017022942192852497,
+    "q1": 0.0005464240093715489,
+    "q3": 0.0011021671816706657
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 10,
+    "meanADE": 0.00186060497071594,
+    "q1": 0.0005313855363056064,
+    "q3": 0.0011719249887391925
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 11,
+    "meanADE": 0.0020259832963347435,
+    "q1": 0.000507114571519196,
+    "q3": 0.0012454844545572996
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 12,
+    "meanADE": 0.002199397422373295,
+    "q1": 0.0004734352696686983,
+    "q3": 0.0013284253655001521
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 13,
+    "meanADE": 0.002388850087299943,
+    "q1": 0.00044450716814026237,
+    "q3": 0.0014136274112388492
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 14,
+    "meanADE": 0.0026018188800662756,
+    "q1": 0.00043486387585289776,
+    "q3": 0.0015010838396847248
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 15,
+    "meanADE": 0.002835307503119111,
+    "q1": 0.00043965273653157055,
+    "q3": 0.0015970264794304967
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 16,
+    "meanADE": 0.003085839096456766,
+    "q1": 0.00045431425678543746,
+    "q3": 0.001691522658802569
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 17,
+    "meanADE": 0.0033503687009215355,
+    "q1": 0.000475521752377972,
+    "q3": 0.0017945825820788741
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 18,
+    "meanADE": 0.0036260501947253942,
+    "q1": 0.0005002790130674839,
+    "q3": 0.0018955961568281054
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 19,
+    "meanADE": 0.003910559695214033,
+    "q1": 0.0005264148931019008,
+    "q3": 0.001993561862036586
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 20,
+    "meanADE": 0.00420163432136178,
+    "q1": 0.0005518326070159674,
+    "q3": 0.0020941607654094696
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 1,
+    "meanADE": 0.000668497639708221,
+    "q1": 0.00038529891753569245,
+    "q3": 0.0007465691305696964
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 2,
+    "meanADE": 0.0008202667231671512,
+    "q1": 0.0003993455320596695,
+    "q3": 0.000954322109464556
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 3,
+    "meanADE": 0.000925498316064477,
+    "q1": 0.00038913192111067474,
+    "q3": 0.0010729668429121375
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 4,
+    "meanADE": 0.0010082735680043697,
+    "q1": 0.00037444126792252064,
+    "q3": 0.001126519637182355
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 5,
+    "meanADE": 0.0011343908263370395,
+    "q1": 0.000390382920159027,
+    "q3": 0.0012179868062958121
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 6,
+    "meanADE": 0.0012699379585683346,
+    "q1": 0.00041815044824033976,
+    "q3": 0.0012783982092514634
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 7,
+    "meanADE": 0.0014161436120048165,
+    "q1": 0.00043590652057901025,
+    "q3": 0.0013339396100491285
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 8,
+    "meanADE": 0.0015752807958051562,
+    "q1": 0.00044707561028189957,
+    "q3": 0.0013941684737801552
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 9,
+    "meanADE": 0.0017468086443841457,
+    "q1": 0.000442689866758883,
+    "q3": 0.001471668598242104
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 10,
+    "meanADE": 0.0019331196090206504,
+    "q1": 0.0004322399036027491,
+    "q3": 0.0015721855452284217
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 11,
+    "meanADE": 0.00213441951200366,
+    "q1": 0.0004206445883028209,
+    "q3": 0.001686126459389925
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 12,
+    "meanADE": 0.0023513713385909796,
+    "q1": 0.0004120476369280368,
+    "q3": 0.0018090745434165
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 13,
+    "meanADE": 0.0025825712364166975,
+    "q1": 0.00041337235597893596,
+    "q3": 0.0019307475304231048
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 14,
+    "meanADE": 0.0028272978961467743,
+    "q1": 0.000419165357016027,
+    "q3": 0.002054456854239106
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 15,
+    "meanADE": 0.0030841040425002575,
+    "q1": 0.0004286629264242947,
+    "q3": 0.0021633836440742016
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 16,
+    "meanADE": 0.003351641586050391,
+    "q1": 0.00043965745135210454,
+    "q3": 0.002273324877023697
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 17,
+    "meanADE": 0.0036306672263890505,
+    "q1": 0.0004542965325526893,
+    "q3": 0.002373257651925087
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 18,
+    "meanADE": 0.003917838912457228,
+    "q1": 0.0004685892490670085,
+    "q3": 0.002474897773936391
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 19,
+    "meanADE": 0.004214870277792215,
+    "q1": 0.00048598734429106116,
+    "q3": 0.002587436931207776
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 3,
+    "horizon": 20,
+    "meanADE": 0.004518644418567419,
+    "q1": 0.0005031819455325603,
+    "q3": 0.0027006289456039667
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 1,
+    "meanADE": 0.00043918201117776334,
+    "q1": 0.00015251098375301808,
+    "q3": 0.0003915987617801875
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 2,
+    "meanADE": 0.0005424966802820563,
+    "q1": 0.00016871243133209646,
+    "q3": 0.00047072034794837236
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 3,
+    "meanADE": 0.0006744133424945176,
+    "q1": 0.0002108323824359104,
+    "q3": 0.000563817797228694
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 4,
+    "meanADE": 0.0007981261005625129,
+    "q1": 0.0002503558644093573,
+    "q3": 0.0006565666990354657
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 5,
+    "meanADE": 0.0009266523993574083,
+    "q1": 0.0002842313260771334,
+    "q3": 0.0007555346237495542
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 6,
+    "meanADE": 0.0010598209919407964,
+    "q1": 0.00029927323339506984,
+    "q3": 0.0008506841259077191
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 7,
+    "meanADE": 0.0011968450853601098,
+    "q1": 0.00029524011188186705,
+    "q3": 0.0009456928819417953
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 8,
+    "meanADE": 0.001347373123280704,
+    "q1": 0.0002949380432255566,
+    "q3": 0.0010425662621855736
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 9,
+    "meanADE": 0.001507498323917389,
+    "q1": 0.0002903413260355592,
+    "q3": 0.0011387282283976674
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 10,
+    "meanADE": 0.0016732868971303105,
+    "q1": 0.0002738342445809394,
+    "q3": 0.0012284244876354933
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 11,
+    "meanADE": 0.001850851927883923,
+    "q1": 0.000256777013419196,
+    "q3": 0.001312549808062613
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 12,
+    "meanADE": 0.002049259142950177,
+    "q1": 0.0002551400102674961,
+    "q3": 0.0013929710257798433
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 13,
+    "meanADE": 0.0022680216934531927,
+    "q1": 0.00026692714891396463,
+    "q3": 0.0014829523861408234
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 14,
+    "meanADE": 0.0025041636545211077,
+    "q1": 0.0002876328944694251,
+    "q3": 0.0015861473511904478
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 15,
+    "meanADE": 0.0027541997842490673,
+    "q1": 0.00031306076562032104,
+    "q3": 0.0017017712816596031
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 16,
+    "meanADE": 0.003015417605638504,
+    "q1": 0.00034024426713585854,
+    "q3": 0.0018203237559646368
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 17,
+    "meanADE": 0.003285678569227457,
+    "q1": 0.00036738550988957286,
+    "q3": 0.0019316273974254727
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 18,
+    "meanADE": 0.003564146114513278,
+    "q1": 0.0003942767216358334,
+    "q3": 0.00205205543898046
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 19,
+    "meanADE": 0.0038499641232192516,
+    "q1": 0.0004207839956507087,
+    "q3": 0.0021736565977334976
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 20,
+    "meanADE": 0.004142585676163435,
+    "q1": 0.0004469897539820522,
+    "q3": 0.002290204865857959
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 1,
+    "meanADE": 0.0006426596664823592,
+    "q1": 0.00014848989667370915,
+    "q3": 0.0008236893336288631
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 2,
+    "meanADE": 0.0008340732310898602,
+    "q1": 0.00011198256106581539,
+    "q3": 0.0011759730987250805
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 3,
+    "meanADE": 0.0009614214650355279,
+    "q1": 0.00016013778804335743,
+    "q3": 0.0013129557482898235
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 4,
+    "meanADE": 0.001093099475838244,
+    "q1": 0.00020035931083839387,
+    "q3": 0.0014283948112279177
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 5,
+    "meanADE": 0.0012320823734626174,
+    "q1": 0.00024126617063302547,
+    "q3": 0.00149439531378448
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 6,
+    "meanADE": 0.0013891780981794,
+    "q1": 0.000291567703243345,
+    "q3": 0.0015792727936059237
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 7,
+    "meanADE": 0.0015594735741615295,
+    "q1": 0.00034212126047350466,
+    "q3": 0.0016672809142619371
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 8,
+    "meanADE": 0.0017354884184896946,
+    "q1": 0.00038113081245683134,
+    "q3": 0.001753847231157124
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 9,
+    "meanADE": 0.0019140467047691345,
+    "q1": 0.0004046214744448662,
+    "q3": 0.001828694366849959
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 10,
+    "meanADE": 0.002099086297675967,
+    "q1": 0.00041634769877418876,
+    "q3": 0.0019083331571891904
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 11,
+    "meanADE": 0.002292733872309327,
+    "q1": 0.0004184180870652199,
+    "q3": 0.001974943559616804
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 12,
+    "meanADE": 0.002495767781510949,
+    "q1": 0.00041231155046261847,
+    "q3": 0.0020561623387038708
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 13,
+    "meanADE": 0.002708212472498417,
+    "q1": 0.0003987627860624343,
+    "q3": 0.0021493742242455482
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 14,
+    "meanADE": 0.0029312532860785723,
+    "q1": 0.0003811790666077286,
+    "q3": 0.0022374913096427917
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 15,
+    "meanADE": 0.003164201509207487,
+    "q1": 0.00036001706030219793,
+    "q3": 0.002352862386032939
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 16,
+    "meanADE": 0.0034071779809892178,
+    "q1": 0.00033775391057133675,
+    "q3": 0.0024729620199650526
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 17,
+    "meanADE": 0.0036629349924623966,
+    "q1": 0.00032224878668785095,
+    "q3": 0.0025891156401485205
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 18,
+    "meanADE": 0.003929343074560165,
+    "q1": 0.00031133778975345194,
+    "q3": 0.002707734704017639
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 19,
+    "meanADE": 0.004205315839499235,
+    "q1": 0.0003047482168767601,
+    "q3": 0.0028266264125704765
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 5,
+    "horizon": 20,
+    "meanADE": 0.004489777609705925,
+    "q1": 0.00030207406962290406,
+    "q3": 0.0029501873068511486
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 1,
+    "meanADE": 0.00046693949843756855,
+    "q1": 0.0002643949119374156,
+    "q3": 0.000383499835152179
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 2,
+    "meanADE": 0.0005254577845335007,
+    "q1": 0.000209944395464845,
+    "q3": 0.00040082359919324517
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 3,
+    "meanADE": 0.0007137861102819443,
+    "q1": 0.00024701128131709993,
+    "q3": 0.0007024098304100335
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 4,
+    "meanADE": 0.0008414810872636735,
+    "q1": 0.0002702142810449004,
+    "q3": 0.0008738604374229908
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 5,
+    "meanADE": 0.000930539914406836,
+    "q1": 0.00027885710005648434,
+    "q3": 0.0009419660200364888
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 6,
+    "meanADE": 0.0010334922699257731,
+    "q1": 0.0002802395902108401,
+    "q3": 0.00100589613430202
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 7,
+    "meanADE": 0.0011526193702593446,
+    "q1": 0.000276170700090006,
+    "q3": 0.0010837606387212873
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 8,
+    "meanADE": 0.0012788237072527409,
+    "q1": 0.00026338023599237204,
+    "q3": 0.0011627881322056055
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 9,
+    "meanADE": 0.0014193090610206127,
+    "q1": 0.00024535521515645087,
+    "q3": 0.001249571330845356
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 10,
+    "meanADE": 0.0015779290115460753,
+    "q1": 0.00022906118829268962,
+    "q3": 0.0013536443002521992
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 11,
+    "meanADE": 0.0017522773705422878,
+    "q1": 0.0002142862358596176,
+    "q3": 0.0014664286281913519
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 12,
+    "meanADE": 0.0019393340917304158,
+    "q1": 0.000200520153157413,
+    "q3": 0.0015794772189110518
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 13,
+    "meanADE": 0.002136892406269908,
+    "q1": 0.00018668487609829754,
+    "q3": 0.0016917772591114044
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 14,
+    "meanADE": 0.002344499109312892,
+    "q1": 0.0001767498324625194,
+    "q3": 0.0018082313472405076
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 15,
+    "meanADE": 0.0025628122966736555,
+    "q1": 0.00017160493007395416,
+    "q3": 0.0019274568185210228
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 16,
+    "meanADE": 0.0027899881824851036,
+    "q1": 0.00016885787772480398,
+    "q3": 0.0020560920238494873
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 17,
+    "meanADE": 0.0030255927704274654,
+    "q1": 0.00016725095338188112,
+    "q3": 0.002180378884077072
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 18,
+    "meanADE": 0.0032697294373065233,
+    "q1": 0.00016674448852427304,
+    "q3": 0.0023136241361498833
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 19,
+    "meanADE": 0.0035213332157582045,
+    "q1": 0.00016688562755007297,
+    "q3": 0.0024595775175839663
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 20,
+    "meanADE": 0.003778324695304036,
+    "q1": 0.00016730104107409716,
+    "q3": 0.002608118811622262
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 1,
+    "meanADE": 0.0007352163665927947,
+    "q1": 0.0004423699574545026,
+    "q3": 0.0006087323417887092
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 2,
+    "meanADE": 0.0007868591928854585,
+    "q1": 0.00034681212855502963,
+    "q3": 0.0007124784169718623
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 3,
+    "meanADE": 0.0009204314555972815,
+    "q1": 0.0003629711864050478,
+    "q3": 0.0008598848362453282
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 4,
+    "meanADE": 0.0010813857661560178,
+    "q1": 0.0004214576620142907,
+    "q3": 0.0010046495590358973
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 5,
+    "meanADE": 0.0012448151828721166,
+    "q1": 0.0004770762752741575,
+    "q3": 0.0011524303117766976
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 6,
+    "meanADE": 0.001399892382323742,
+    "q1": 0.0005057434318587184,
+    "q3": 0.0012900972506031394
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 7,
+    "meanADE": 0.0015492297243326902,
+    "q1": 0.0005067004240117967,
+    "q3": 0.0014235989656299353
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 8,
+    "meanADE": 0.0017009747680276632,
+    "q1": 0.0004917409969493747,
+    "q3": 0.0015456253895536065
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 9,
+    "meanADE": 0.0018612213898450136,
+    "q1": 0.00047133598127402365,
+    "q3": 0.001661753049120307
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 10,
+    "meanADE": 0.002032481599599123,
+    "q1": 0.00045081405551172793,
+    "q3": 0.0017877586651593447
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 11,
+    "meanADE": 0.0022152916062623262,
+    "q1": 0.00043223798274993896,
+    "q3": 0.0019093233859166503
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 12,
+    "meanADE": 0.0024094770196825266,
+    "q1": 0.0004162600089330226,
+    "q3": 0.0020277597941458225
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 13,
+    "meanADE": 0.0026146008167415857,
+    "q1": 0.00040299445390701294,
+    "q3": 0.0021396884694695473
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 14,
+    "meanADE": 0.002829989418387413,
+    "q1": 0.0003922708274330944,
+    "q3": 0.0022526290267705917
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 15,
+    "meanADE": 0.0030552875250577927,
+    "q1": 0.0003844188468065113,
+    "q3": 0.0023610598873347044
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 16,
+    "meanADE": 0.003290243446826935,
+    "q1": 0.0003799544647336006,
+    "q3": 0.002481878735125065
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 17,
+    "meanADE": 0.0035344036296010017,
+    "q1": 0.0003791431081481278,
+    "q3": 0.0025990053545683622
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 18,
+    "meanADE": 0.0037870989181101322,
+    "q1": 0.00038195005618035793,
+    "q3": 0.0027283632662147284
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 19,
+    "meanADE": 0.00404764898121357,
+    "q1": 0.0003882116579916328,
+    "q3": 0.0028532096184790134
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 10,
+    "horizon": 20,
+    "meanADE": 0.0043152207508683205,
+    "q1": 0.00039745718822814524,
+    "q3": 0.002978640142828226
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 1,
+    "meanADE": 0.00039321542135439813,
+    "q1": 0.00023290525132324547,
+    "q3": 0.00033963064197450876
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 2,
+    "meanADE": 0.000556688872165978,
+    "q1": 0.0002942323044408113,
+    "q3": 0.0004895534948445857
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 3,
+    "meanADE": 0.0006918666767887771,
+    "q1": 0.0003515202843118459,
+    "q3": 0.0005921617266722023
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 4,
+    "meanADE": 0.0008317898027598858,
+    "q1": 0.00040617099148221314,
+    "q3": 0.0006963721243664622
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 5,
+    "meanADE": 0.0009709098958410323,
+    "q1": 0.00044929696014150977,
+    "q3": 0.0007993740728124976
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 6,
+    "meanADE": 0.0011125752935186028,
+    "q1": 0.00048635873827151954,
+    "q3": 0.0008919466054067016
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 7,
+    "meanADE": 0.0012612153077498078,
+    "q1": 0.000525059353094548,
+    "q3": 0.0009978755842894316
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 8,
+    "meanADE": 0.00141090527176857,
+    "q1": 0.0005580690922215581,
+    "q3": 0.0011022971011698246
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 9,
+    "meanADE": 0.0015577152371406555,
+    "q1": 0.0005767676630057395,
+    "q3": 0.0012180240591987967
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 10,
+    "meanADE": 0.0017040192615240812,
+    "q1": 0.0005814473843201995,
+    "q3": 0.0013324386673048139
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 11,
+    "meanADE": 0.0018551249522715807,
+    "q1": 0.0005788356647826731,
+    "q3": 0.0014582602307200432
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 12,
+    "meanADE": 0.0020160393323749304,
+    "q1": 0.0005765816895291209,
+    "q3": 0.0015925480984151363
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 13,
+    "meanADE": 0.0021888536866754293,
+    "q1": 0.0005785624380223453,
+    "q3": 0.0017307568341493607
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 14,
+    "meanADE": 0.0023735270369797945,
+    "q1": 0.0005853894981555641,
+    "q3": 0.001874276320450008
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 15,
+    "meanADE": 0.0025683529675006866,
+    "q1": 0.0005957642570137978,
+    "q3": 0.0020198458805680275
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 16,
+    "meanADE": 0.002770951483398676,
+    "q1": 0.0006074641714803874,
+    "q3": 0.0021593626588582993
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 17,
+    "meanADE": 0.002979489741846919,
+    "q1": 0.0006190151907503605,
+    "q3": 0.0023047160357236862
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 18,
+    "meanADE": 0.0031926289666444063,
+    "q1": 0.0006294390768744051,
+    "q3": 0.0024497625418007374
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 19,
+    "meanADE": 0.003409544238820672,
+    "q1": 0.0006382624851539731,
+    "q3": 0.002589292824268341
+  },
+  {
+    "modelType": "EG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 20,
+    "meanADE": 0.003629738464951515,
+    "q1": 0.0006454518297687173,
+    "q3": 0.0027290445286780596
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 1,
+    "meanADE": 0.0007202572305686772,
+    "q1": 0.00031244292040355504,
+    "q3": 0.0006302776746451855
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 2,
+    "meanADE": 0.0008207138162106276,
+    "q1": 0.0002618197468109429,
+    "q3": 0.0007068877457641065
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 3,
+    "meanADE": 0.0010135582415387034,
+    "q1": 0.00030018723919056356,
+    "q3": 0.0008374516619369388
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 4,
+    "meanADE": 0.0012153236893936992,
+    "q1": 0.00037567003164440393,
+    "q3": 0.0009876586263999343
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 5,
+    "meanADE": 0.0014181302394717932,
+    "q1": 0.0004649485053960234,
+    "q3": 0.0011570858769118786
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 6,
+    "meanADE": 0.0016208688030019403,
+    "q1": 0.000555340142454952,
+    "q3": 0.0013386892387643456
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 7,
+    "meanADE": 0.0018092705868184566,
+    "q1": 0.0006179773481562734,
+    "q3": 0.0015055484836921096
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 8,
+    "meanADE": 0.0019806846976280212,
+    "q1": 0.0006476944545283914,
+    "q3": 0.0016518253833055496
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 9,
+    "meanADE": 0.0021381149999797344,
+    "q1": 0.0006466729682870209,
+    "q3": 0.00179762183688581
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 10,
+    "meanADE": 0.002286667935550213,
+    "q1": 0.0006210191058926284,
+    "q3": 0.0019392553949728608
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 11,
+    "meanADE": 0.002435478148981929,
+    "q1": 0.0005852486938238144,
+    "q3": 0.0020638853311538696
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 12,
+    "meanADE": 0.0025949880946427584,
+    "q1": 0.0005570714129135013,
+    "q3": 0.0021757003851234913
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 13,
+    "meanADE": 0.0027676778845489025,
+    "q1": 0.0005406361888162792,
+    "q3": 0.0022879065945744514
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 14,
+    "meanADE": 0.0029514255002141,
+    "q1": 0.0005319443298503757,
+    "q3": 0.0024139571469277143
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 15,
+    "meanADE": 0.003144041867926717,
+    "q1": 0.0005272760754451156,
+    "q3": 0.002548086689785123
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 16,
+    "meanADE": 0.003343058517202735,
+    "q1": 0.0005230616661719978,
+    "q3": 0.0026674908585846424
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 17,
+    "meanADE": 0.0035469713620841503,
+    "q1": 0.0005173085955902934,
+    "q3": 0.002782156690955162
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 18,
+    "meanADE": 0.0037549047265201807,
+    "q1": 0.00050860590999946,
+    "q3": 0.0028974260203540325
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 19,
+    "meanADE": 0.003966918680816889,
+    "q1": 0.0004973977338522673,
+    "q3": 0.0030088445637375116
+  },
+  {
+    "modelType": "BG",
+    "scenario": "navigation",
+    "history": 20,
+    "horizon": 20,
+    "meanADE": 0.004183434881269932,
+    "q1": 0.0004846759547945112,
+    "q3": 0.0031263723503798246
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 1,
+    "meanADE": 4.53920316696167,
+    "q1": 0.14502112567424774,
+    "q3": 4.83634614944458
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 2,
+    "meanADE": 5.492245197296143,
+    "q1": 0.17899706959724426,
+    "q3": 7.318948268890381
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 3,
+    "meanADE": 5.951018333435059,
+    "q1": 0.1844884604215622,
+    "q3": 8.644142150878906
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 4,
+    "meanADE": 5.928627967834473,
+    "q1": 0.22313308715820312,
+    "q3": 8.940376281738281
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 5,
+    "meanADE": 5.720152378082275,
+    "q1": 0.2890945374965668,
+    "q3": 8.412328720092773
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 6,
+    "meanADE": 5.5783891677856445,
+    "q1": 0.34455549716949463,
+    "q3": 7.874263763427734
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 7,
+    "meanADE": 5.768238067626953,
+    "q1": 0.4146561026573181,
+    "q3": 8.042747497558594
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 8,
+    "meanADE": 6.049789905548096,
+    "q1": 0.45173776149749756,
+    "q3": 8.481430053710938
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 9,
+    "meanADE": 6.357264518737793,
+    "q1": 0.5008824467658997,
+    "q3": 8.830291748046875
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 10,
+    "meanADE": 6.594306945800781,
+    "q1": 0.5582423210144043,
+    "q3": 9.075141906738281
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 11,
+    "meanADE": 6.811424732208252,
+    "q1": 0.6077324151992798,
+    "q3": 9.219367980957031
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 12,
+    "meanADE": 7.01109504699707,
+    "q1": 0.6471583247184753,
+    "q3": 9.361295700073242
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 13,
+    "meanADE": 7.282155990600586,
+    "q1": 0.6993928551673889,
+    "q3": 9.615859985351562
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 14,
+    "meanADE": 7.588437557220459,
+    "q1": 0.7465302348136902,
+    "q3": 10.00225830078125
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 15,
+    "meanADE": 7.90339469909668,
+    "q1": 0.7955638766288757,
+    "q3": 10.376692771911621
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 16,
+    "meanADE": 8.214591979980469,
+    "q1": 0.8355709910392761,
+    "q3": 10.743829727172852
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 17,
+    "meanADE": 8.530497550964355,
+    "q1": 0.8751158118247986,
+    "q3": 11.070783615112305
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 18,
+    "meanADE": 8.832571983337402,
+    "q1": 0.915831446647644,
+    "q3": 11.366063117980957
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 19,
+    "meanADE": 9.161418914794922,
+    "q1": 0.9547408223152161,
+    "q3": 11.727779388427734
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 20,
+    "meanADE": 9.493607521057129,
+    "q1": 0.994575560092926,
+    "q3": 12.106182098388672
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 1,
+    "meanADE": 4.274916172027588,
+    "q1": 0.1736193299293518,
+    "q3": 4.8718109130859375
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 2,
+    "meanADE": 5.4634108543396,
+    "q1": 0.2420554757118225,
+    "q3": 7.968862056732178
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 3,
+    "meanADE": 6.011538982391357,
+    "q1": 0.3146803677082062,
+    "q3": 8.99709701538086
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 4,
+    "meanADE": 5.905173301696777,
+    "q1": 0.35850852727890015,
+    "q3": 9.008731842041016
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 5,
+    "meanADE": 5.64677095413208,
+    "q1": 0.3943018317222595,
+    "q3": 8.170989990234375
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 6,
+    "meanADE": 5.581483840942383,
+    "q1": 0.4465220272541046,
+    "q3": 7.878635406494141
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 7,
+    "meanADE": 5.80871057510376,
+    "q1": 0.48860788345336914,
+    "q3": 8.219396591186523
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 8,
+    "meanADE": 6.091364860534668,
+    "q1": 0.519940972328186,
+    "q3": 8.626493453979492
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 9,
+    "meanADE": 6.355504989624023,
+    "q1": 0.5572077035903931,
+    "q3": 8.904417037963867
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 10,
+    "meanADE": 6.576423168182373,
+    "q1": 0.6113921403884888,
+    "q3": 9.010496139526367
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 11,
+    "meanADE": 6.795916557312012,
+    "q1": 0.6596575975418091,
+    "q3": 9.167978286743164
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 12,
+    "meanADE": 7.0227227210998535,
+    "q1": 0.7126806974411011,
+    "q3": 9.458292007446289
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 13,
+    "meanADE": 7.301684379577637,
+    "q1": 0.7582039833068848,
+    "q3": 9.81513500213623
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 14,
+    "meanADE": 7.600950241088867,
+    "q1": 0.7962069511413574,
+    "q3": 10.148727416992188
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 15,
+    "meanADE": 7.897283554077148,
+    "q1": 0.8419064283370972,
+    "q3": 10.433225631713867
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 16,
+    "meanADE": 8.200288772583008,
+    "q1": 0.8835181593894958,
+    "q3": 10.832115173339844
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 17,
+    "meanADE": 8.515061378479004,
+    "q1": 0.9320882558822632,
+    "q3": 11.163003921508789
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 18,
+    "meanADE": 8.813760757446289,
+    "q1": 0.973829448223114,
+    "q3": 11.506393432617188
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 19,
+    "meanADE": 9.129767417907715,
+    "q1": 1.0135173797607422,
+    "q3": 11.908724784851074
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 1,
+    "horizon": 20,
+    "meanADE": 9.44575023651123,
+    "q1": 1.0452306270599365,
+    "q3": 12.314909934997559
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 1,
+    "meanADE": 4.3814802169799805,
+    "q1": 0.21619290113449097,
+    "q3": 4.625614166259766
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 2,
+    "meanADE": 5.526400089263916,
+    "q1": 0.28576475381851196,
+    "q3": 7.741352081298828
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 3,
+    "meanADE": 5.998018264770508,
+    "q1": 0.3387918174266815,
+    "q3": 8.901382446289062
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 4,
+    "meanADE": 5.972042083740234,
+    "q1": 0.34445375204086304,
+    "q3": 9.080678939819336
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 5,
+    "meanADE": 5.8084025382995605,
+    "q1": 0.3714372515678406,
+    "q3": 8.524589538574219
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 6,
+    "meanADE": 5.7483086585998535,
+    "q1": 0.47747164964675903,
+    "q3": 8.100631713867188
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 7,
+    "meanADE": 5.905237197875977,
+    "q1": 0.5325735807418823,
+    "q3": 8.145544052124023
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 8,
+    "meanADE": 6.213776588439941,
+    "q1": 0.6048364639282227,
+    "q3": 8.533122062683105
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 9,
+    "meanADE": 6.5404839515686035,
+    "q1": 0.6579570770263672,
+    "q3": 8.893972396850586
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 10,
+    "meanADE": 6.790926456451416,
+    "q1": 0.7111546397209167,
+    "q3": 9.108659744262695
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 11,
+    "meanADE": 7.03102445602417,
+    "q1": 0.7731418609619141,
+    "q3": 9.264604568481445
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 12,
+    "meanADE": 7.238978385925293,
+    "q1": 0.825573205947876,
+    "q3": 9.389198303222656
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 13,
+    "meanADE": 7.527378559112549,
+    "q1": 0.8896963000297546,
+    "q3": 9.615020751953125
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 14,
+    "meanADE": 7.846920013427734,
+    "q1": 0.9516021013259888,
+    "q3": 9.960017204284668
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 15,
+    "meanADE": 8.174341201782227,
+    "q1": 1.0068700313568115,
+    "q3": 10.323568344116211
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 16,
+    "meanADE": 8.506063461303711,
+    "q1": 1.0658714771270752,
+    "q3": 10.67873764038086
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 17,
+    "meanADE": 8.827845573425293,
+    "q1": 1.1157130002975464,
+    "q3": 11.00422477722168
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 18,
+    "meanADE": 9.139935493469238,
+    "q1": 1.1656830310821533,
+    "q3": 11.364303588867188
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 19,
+    "meanADE": 9.471330642700195,
+    "q1": 1.2126561403274536,
+    "q3": 11.701553344726562
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 20,
+    "meanADE": 9.819402694702148,
+    "q1": 1.2633618116378784,
+    "q3": 12.127218246459961
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 1,
+    "meanADE": 4.519346714019775,
+    "q1": 0.22748306393623352,
+    "q3": 4.819266319274902
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 2,
+    "meanADE": 5.588327884674072,
+    "q1": 0.2738420069217682,
+    "q3": 7.937675476074219
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 3,
+    "meanADE": 6.024559497833252,
+    "q1": 0.3526751697063446,
+    "q3": 8.959466934204102
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 4,
+    "meanADE": 5.969419956207275,
+    "q1": 0.37234383821487427,
+    "q3": 9.062493324279785
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 5,
+    "meanADE": 5.705772876739502,
+    "q1": 0.38990363478660583,
+    "q3": 8.137979507446289
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 6,
+    "meanADE": 5.6663126945495605,
+    "q1": 0.42038631439208984,
+    "q3": 7.87678337097168
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 7,
+    "meanADE": 5.873298168182373,
+    "q1": 0.44385144114494324,
+    "q3": 8.194025039672852
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 8,
+    "meanADE": 6.169254779815674,
+    "q1": 0.48930680751800537,
+    "q3": 8.648670196533203
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 9,
+    "meanADE": 6.472258567810059,
+    "q1": 0.5351131558418274,
+    "q3": 8.927963256835938
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 10,
+    "meanADE": 6.714163780212402,
+    "q1": 0.5929553508758545,
+    "q3": 9.005352020263672
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 11,
+    "meanADE": 6.948487281799316,
+    "q1": 0.643057644367218,
+    "q3": 9.134092330932617
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 12,
+    "meanADE": 7.161769866943359,
+    "q1": 0.69712233543396,
+    "q3": 9.321216583251953
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 13,
+    "meanADE": 7.4515204429626465,
+    "q1": 0.7497509717941284,
+    "q3": 9.673752784729004
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 14,
+    "meanADE": 7.762269973754883,
+    "q1": 0.8022733926773071,
+    "q3": 9.966154098510742
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 15,
+    "meanADE": 8.069072723388672,
+    "q1": 0.8503886461257935,
+    "q3": 10.273189544677734
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 16,
+    "meanADE": 8.390230178833008,
+    "q1": 0.8956204652786255,
+    "q3": 10.642217636108398
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 17,
+    "meanADE": 8.7073392868042,
+    "q1": 0.9421526789665222,
+    "q3": 10.992127418518066
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 18,
+    "meanADE": 9.020796775817871,
+    "q1": 0.9852488040924072,
+    "q3": 11.354925155639648
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 19,
+    "meanADE": 9.35059928894043,
+    "q1": 1.0267689228057861,
+    "q3": 11.711073875427246
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 3,
+    "horizon": 20,
+    "meanADE": 9.674810409545898,
+    "q1": 1.063277006149292,
+    "q3": 12.109384536743164
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 1,
+    "meanADE": 4.295498371124268,
+    "q1": 0.31507474184036255,
+    "q3": 4.611283779144287
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 2,
+    "meanADE": 5.2983717918396,
+    "q1": 0.4030846953392029,
+    "q3": 7.25593376159668
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 3,
+    "meanADE": 5.901604652404785,
+    "q1": 0.5848656296730042,
+    "q3": 8.800978660583496
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 4,
+    "meanADE": 5.943556785583496,
+    "q1": 0.5839794278144836,
+    "q3": 9.04747486114502
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 5,
+    "meanADE": 5.696339130401611,
+    "q1": 0.582781970500946,
+    "q3": 8.389556884765625
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 6,
+    "meanADE": 5.516920566558838,
+    "q1": 0.5888053774833679,
+    "q3": 7.7897257804870605
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 7,
+    "meanADE": 5.612452030181885,
+    "q1": 0.6063472628593445,
+    "q3": 7.748363971710205
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 8,
+    "meanADE": 5.851620197296143,
+    "q1": 0.6289997696876526,
+    "q3": 8.226646423339844
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 9,
+    "meanADE": 6.119515895843506,
+    "q1": 0.6183428168296814,
+    "q3": 8.5960111618042
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 10,
+    "meanADE": 6.339334487915039,
+    "q1": 0.6267622709274292,
+    "q3": 8.79755973815918
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 11,
+    "meanADE": 6.543842315673828,
+    "q1": 0.6375467777252197,
+    "q3": 8.936299324035645
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 12,
+    "meanADE": 6.718319892883301,
+    "q1": 0.6710066795349121,
+    "q3": 9.060380935668945
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 13,
+    "meanADE": 6.948713779449463,
+    "q1": 0.7058079838752747,
+    "q3": 9.252799034118652
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 14,
+    "meanADE": 7.218847274780273,
+    "q1": 0.7360661625862122,
+    "q3": 9.598098754882812
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 15,
+    "meanADE": 7.494688034057617,
+    "q1": 0.7719806432723999,
+    "q3": 9.937236785888672
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 16,
+    "meanADE": 7.775163650512695,
+    "q1": 0.7891350388526917,
+    "q3": 10.273665428161621
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 17,
+    "meanADE": 8.067154884338379,
+    "q1": 0.819987416267395,
+    "q3": 10.564559936523438
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 18,
+    "meanADE": 8.35174560546875,
+    "q1": 0.85699462890625,
+    "q3": 10.830891609191895
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 19,
+    "meanADE": 8.651294708251953,
+    "q1": 0.8897584676742554,
+    "q3": 11.218693733215332
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 20,
+    "meanADE": 8.955259323120117,
+    "q1": 0.9156519174575806,
+    "q3": 11.590225219726562
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 1,
+    "meanADE": 4.340150356292725,
+    "q1": 0.24626518785953522,
+    "q3": 4.780510425567627
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 2,
+    "meanADE": 5.497565746307373,
+    "q1": 0.33702191710472107,
+    "q3": 7.380705833435059
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 3,
+    "meanADE": 5.99832010269165,
+    "q1": 0.3842126131057739,
+    "q3": 8.812644004821777
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 4,
+    "meanADE": 5.908313751220703,
+    "q1": 0.391218900680542,
+    "q3": 8.986125946044922
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 5,
+    "meanADE": 5.720940113067627,
+    "q1": 0.4457871913909912,
+    "q3": 8.247017860412598
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 6,
+    "meanADE": 5.660324573516846,
+    "q1": 0.48665979504585266,
+    "q3": 7.817699909210205
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 7,
+    "meanADE": 5.833718776702881,
+    "q1": 0.5281739234924316,
+    "q3": 7.986121654510498
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 8,
+    "meanADE": 6.0942463874816895,
+    "q1": 0.5689026713371277,
+    "q3": 8.41623306274414
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 9,
+    "meanADE": 6.373911380767822,
+    "q1": 0.6059901714324951,
+    "q3": 8.755465507507324
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 10,
+    "meanADE": 6.608407020568848,
+    "q1": 0.6509745121002197,
+    "q3": 8.889948844909668
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 11,
+    "meanADE": 6.825700759887695,
+    "q1": 0.6982937455177307,
+    "q3": 8.977296829223633
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 12,
+    "meanADE": 7.0317206382751465,
+    "q1": 0.7461965084075928,
+    "q3": 9.122587203979492
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 13,
+    "meanADE": 7.293649673461914,
+    "q1": 0.7901261448860168,
+    "q3": 9.394603729248047
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 14,
+    "meanADE": 7.580763339996338,
+    "q1": 0.8331813812255859,
+    "q3": 9.71727180480957
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 15,
+    "meanADE": 7.875510215759277,
+    "q1": 0.8789414167404175,
+    "q3": 10.014806747436523
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 16,
+    "meanADE": 8.176115989685059,
+    "q1": 0.9141196608543396,
+    "q3": 10.365035057067871
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 17,
+    "meanADE": 8.47808837890625,
+    "q1": 0.9510720372200012,
+    "q3": 10.657164573669434
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 18,
+    "meanADE": 8.769857406616211,
+    "q1": 0.9903033375740051,
+    "q3": 10.924821853637695
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 19,
+    "meanADE": 9.088772773742676,
+    "q1": 1.0293747186660767,
+    "q3": 11.279129981994629
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 5,
+    "horizon": 20,
+    "meanADE": 9.416336059570312,
+    "q1": 1.0699796676635742,
+    "q3": 11.645503044128418
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 1,
+    "meanADE": 4.271295070648193,
+    "q1": 0.20167800784111023,
+    "q3": 4.5398454666137695
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 2,
+    "meanADE": 5.533431053161621,
+    "q1": 0.32597804069519043,
+    "q3": 7.802486419677734
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 3,
+    "meanADE": 5.883944511413574,
+    "q1": 0.3676697611808777,
+    "q3": 9.194770812988281
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 4,
+    "meanADE": 5.778966903686523,
+    "q1": 0.38889408111572266,
+    "q3": 9.001823425292969
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 5,
+    "meanADE": 5.576416969299316,
+    "q1": 0.42634081840515137,
+    "q3": 8.31403636932373
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 6,
+    "meanADE": 5.52133321762085,
+    "q1": 0.4560713768005371,
+    "q3": 7.922318458557129
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 7,
+    "meanADE": 5.7113728523254395,
+    "q1": 0.5092058181762695,
+    "q3": 8.024539947509766
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 8,
+    "meanADE": 5.981049537658691,
+    "q1": 0.547106146812439,
+    "q3": 8.469921112060547
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 9,
+    "meanADE": 6.252032279968262,
+    "q1": 0.5793589353561401,
+    "q3": 8.79660415649414
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 10,
+    "meanADE": 6.473603248596191,
+    "q1": 0.6225025653839111,
+    "q3": 8.98693561553955
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 11,
+    "meanADE": 6.685266017913818,
+    "q1": 0.6771966218948364,
+    "q3": 9.144477844238281
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 12,
+    "meanADE": 6.9053544998168945,
+    "q1": 0.7228033542633057,
+    "q3": 9.284894943237305
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 13,
+    "meanADE": 7.1721296310424805,
+    "q1": 0.7689000368118286,
+    "q3": 9.521602630615234
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 14,
+    "meanADE": 7.462657451629639,
+    "q1": 0.8094879388809204,
+    "q3": 9.85533332824707
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 15,
+    "meanADE": 7.742380619049072,
+    "q1": 0.8549239039421082,
+    "q3": 10.168693542480469
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 16,
+    "meanADE": 8.030433654785156,
+    "q1": 0.9005681276321411,
+    "q3": 10.566324234008789
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 17,
+    "meanADE": 8.330303192138672,
+    "q1": 0.9459717273712158,
+    "q3": 10.87251091003418
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 18,
+    "meanADE": 8.625736236572266,
+    "q1": 0.995497465133667,
+    "q3": 11.108612060546875
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 19,
+    "meanADE": 8.936164855957031,
+    "q1": 1.0338777303695679,
+    "q3": 11.494147300720215
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 20,
+    "meanADE": 9.24897289276123,
+    "q1": 1.0695219039916992,
+    "q3": 11.828544616699219
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 1,
+    "meanADE": 4.287623405456543,
+    "q1": 0.22967466711997986,
+    "q3": 4.499093055725098
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 2,
+    "meanADE": 5.334081649780273,
+    "q1": 0.22538971900939941,
+    "q3": 7.028185844421387
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 3,
+    "meanADE": 5.824370861053467,
+    "q1": 0.2762743830680847,
+    "q3": 8.604867935180664
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 4,
+    "meanADE": 5.780234336853027,
+    "q1": 0.33488795161247253,
+    "q3": 8.895273208618164
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 5,
+    "meanADE": 5.493621349334717,
+    "q1": 0.34263911843299866,
+    "q3": 8.110377311706543
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 6,
+    "meanADE": 5.336266040802002,
+    "q1": 0.3775244355201721,
+    "q3": 7.5860795974731445
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 7,
+    "meanADE": 5.515793800354004,
+    "q1": 0.4172217547893524,
+    "q3": 7.715618133544922
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 8,
+    "meanADE": 5.794092655181885,
+    "q1": 0.4574926495552063,
+    "q3": 8.152989387512207
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 9,
+    "meanADE": 6.073050498962402,
+    "q1": 0.5019087791442871,
+    "q3": 8.582876205444336
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 10,
+    "meanADE": 6.272770404815674,
+    "q1": 0.5514047741889954,
+    "q3": 8.7356595993042
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 11,
+    "meanADE": 6.457316875457764,
+    "q1": 0.5984482765197754,
+    "q3": 8.84426212310791
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 12,
+    "meanADE": 6.641514301300049,
+    "q1": 0.6530212163925171,
+    "q3": 8.958369255065918
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 13,
+    "meanADE": 6.892906188964844,
+    "q1": 0.6877743005752563,
+    "q3": 9.170879364013672
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 14,
+    "meanADE": 7.176845073699951,
+    "q1": 0.7317177057266235,
+    "q3": 9.49946403503418
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 15,
+    "meanADE": 7.4571380615234375,
+    "q1": 0.7790026664733887,
+    "q3": 9.78445053100586
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 16,
+    "meanADE": 7.740543842315674,
+    "q1": 0.8197527527809143,
+    "q3": 10.16248607635498
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 17,
+    "meanADE": 8.023392677307129,
+    "q1": 0.8617755174636841,
+    "q3": 10.41788101196289
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 18,
+    "meanADE": 8.300604820251465,
+    "q1": 0.906975269317627,
+    "q3": 10.713214874267578
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 19,
+    "meanADE": 8.60013198852539,
+    "q1": 0.945717990398407,
+    "q3": 11.037363052368164
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 10,
+    "horizon": 20,
+    "meanADE": 8.903505325317383,
+    "q1": 0.9880698919296265,
+    "q3": 11.368736267089844
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 1,
+    "meanADE": 3.900646686553955,
+    "q1": 0.22333544492721558,
+    "q3": 3.732806921005249
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 2,
+    "meanADE": 5.042233467102051,
+    "q1": 0.24013850092887878,
+    "q3": 6.735626697540283
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 3,
+    "meanADE": 5.552546501159668,
+    "q1": 0.2765501141548157,
+    "q3": 8.271354675292969
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 4,
+    "meanADE": 5.558699607849121,
+    "q1": 0.3174768090248108,
+    "q3": 8.731855392456055
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 5,
+    "meanADE": 5.344780445098877,
+    "q1": 0.3379378318786621,
+    "q3": 8.006486892700195
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 6,
+    "meanADE": 5.193377494812012,
+    "q1": 0.3567133843898773,
+    "q3": 7.487545967102051
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 7,
+    "meanADE": 5.329677581787109,
+    "q1": 0.39928871393203735,
+    "q3": 7.639253616333008
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 8,
+    "meanADE": 5.550510883331299,
+    "q1": 0.418241024017334,
+    "q3": 8.048791885375977
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 9,
+    "meanADE": 5.830305099487305,
+    "q1": 0.46516743302345276,
+    "q3": 8.43399429321289
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 10,
+    "meanADE": 6.046667098999023,
+    "q1": 0.5064942836761475,
+    "q3": 8.623373985290527
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 11,
+    "meanADE": 6.257221698760986,
+    "q1": 0.558962345123291,
+    "q3": 8.746434211730957
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 12,
+    "meanADE": 6.413987636566162,
+    "q1": 0.6021761298179626,
+    "q3": 8.871772766113281
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 13,
+    "meanADE": 6.637446880340576,
+    "q1": 0.6517188549041748,
+    "q3": 9.0857515335083
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 14,
+    "meanADE": 6.8930463790893555,
+    "q1": 0.6909881234169006,
+    "q3": 9.347746849060059
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 15,
+    "meanADE": 7.157958030700684,
+    "q1": 0.73843914270401,
+    "q3": 9.631771087646484
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 16,
+    "meanADE": 7.431732177734375,
+    "q1": 0.7889049053192139,
+    "q3": 9.946089744567871
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 17,
+    "meanADE": 7.706722259521484,
+    "q1": 0.8331623077392578,
+    "q3": 10.262125015258789
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 18,
+    "meanADE": 7.967696666717529,
+    "q1": 0.8741264939308167,
+    "q3": 10.51442813873291
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 19,
+    "meanADE": 8.247100830078125,
+    "q1": 0.9157490134239197,
+    "q3": 10.83188247680664
+  },
+  {
+    "modelType": "EG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 20,
+    "meanADE": 8.534943580627441,
+    "q1": 0.9736793637275696,
+    "q3": 11.181297302246094
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 1,
+    "meanADE": 4.246086597442627,
+    "q1": 0.29712340235710144,
+    "q3": 4.649396896362305
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 2,
+    "meanADE": 5.1707329750061035,
+    "q1": 0.30977582931518555,
+    "q3": 6.859311580657959
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 3,
+    "meanADE": 5.706303119659424,
+    "q1": 0.38338446617126465,
+    "q3": 8.504222869873047
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 4,
+    "meanADE": 5.756217002868652,
+    "q1": 0.44020581245422363,
+    "q3": 8.877696990966797
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 5,
+    "meanADE": 5.5427727699279785,
+    "q1": 0.49688756465911865,
+    "q3": 8.151763916015625
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 6,
+    "meanADE": 5.463407516479492,
+    "q1": 0.5637236833572388,
+    "q3": 7.87310791015625
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 7,
+    "meanADE": 5.580262660980225,
+    "q1": 0.6029288172721863,
+    "q3": 8.024821281433105
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 8,
+    "meanADE": 5.850205421447754,
+    "q1": 0.6562684178352356,
+    "q3": 8.436189651489258
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 9,
+    "meanADE": 6.195486068725586,
+    "q1": 0.7289333343505859,
+    "q3": 8.867997169494629
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 10,
+    "meanADE": 6.418391704559326,
+    "q1": 0.7869875431060791,
+    "q3": 9.008991241455078
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 11,
+    "meanADE": 6.6019110679626465,
+    "q1": 0.8347538709640503,
+    "q3": 9.087492942810059
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 12,
+    "meanADE": 6.806373119354248,
+    "q1": 0.8899381160736084,
+    "q3": 9.254544258117676
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 13,
+    "meanADE": 7.062539577484131,
+    "q1": 0.9473357200622559,
+    "q3": 9.504201889038086
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 14,
+    "meanADE": 7.348029613494873,
+    "q1": 0.9938939213752747,
+    "q3": 9.796731948852539
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 15,
+    "meanADE": 7.646485328674316,
+    "q1": 1.0495799779891968,
+    "q3": 10.098247528076172
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 16,
+    "meanADE": 7.936700820922852,
+    "q1": 1.0944828987121582,
+    "q3": 10.429474830627441
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 17,
+    "meanADE": 8.23577880859375,
+    "q1": 1.147872805595398,
+    "q3": 10.753680229187012
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 18,
+    "meanADE": 8.507411003112793,
+    "q1": 1.1949520111083984,
+    "q3": 11.015142440795898
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 19,
+    "meanADE": 8.80984878540039,
+    "q1": 1.2457056045532227,
+    "q3": 11.32874584197998
+  },
+  {
+    "modelType": "BG",
+    "scenario": "coupa",
+    "history": 20,
+    "horizon": 20,
+    "meanADE": 9.126032829284668,
+    "q1": 1.2941468954086304,
+    "q3": 11.680319786071777
+  }
+]
